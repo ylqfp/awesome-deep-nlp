@@ -16,6 +16,25 @@ convolutional neural network architectures for matching natural language sentenc
 bilingually-constrained phrase embeddings for machine translation, acl2014, long paper
 6. **LSTM-RNN**  
 Deep sentence embedding using lstm networks: analysis and application to information retrieval, 201602
-
+7. **SkipThought**
+8. **Doc2Vec**
+9. **Bidirectional LSTM-RNN**
 
 ## Knowledge Graph
+
+## awesome-deep-machine-learning
+# Kernel
+
+1.
+Bayesian Nonparametric Kernel-Learning, NIPS2015  
+针对问题：1.kernel需要predine，对quality of the finite sample estimator 有影响。-> data-driven kernel function. 2. N*N Gram矩阵需要计算，无法应用于大规模数据集。  
+
+Random features have been recently
+shown to be an effective way to scale
+kernel methods to large datasets.
+Roughly speaking, random feature
+techniques like random kitchen sinks
+(RKS) [18] work as follows.  Bochners theorem states that a continuous shift-invariant kernel K(x, y) = k(x − y) is a
+positive definite function if and only if k(t) is the Fourier transform of a non-negative measure
+ρ(ω).
+
