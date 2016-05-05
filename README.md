@@ -90,27 +90,12 @@ Bi-directional LSTM Recurrent Neural Network for Chinese Word Segmentation, 2016
 10. **MV-DNN**  
 A multi-view deep learning approach for cross domain user modeling in recommendation systems, WWW2015
 
-## LSTM - A Search Space Odyssey  
-Study: Vanilla LSTM and 8 variants. Each one differs from the vanilla LSTM by a single change.
-Conclusion: Our results show that none of the variants can improve upon the standard LSTM architecture significantly, and demonstrate the forget gate and the output activation function to be its most critical components.
-
 ## Knowledge Graph
+
+## Multimodal
 
 ## Deep Generative Models
 
-## awesome-deep-machine-learning
-## Kernel
+## Transfer and Multitask and Ensemble
 
-1.
-Bayesian Nonparametric Kernel-Learning, NIPS2015  
-针对问题：1.kernel需要predine，对quality of the finite sample estimator 有影响。-> data-driven kernel function. 2. N*N Gram矩阵需要计算，无法应用于大规模数据集。  
-
-Random features have been recently
-shown to be an effective way to scale
-kernel methods to large datasets.
-Roughly speaking, random feature
-techniques like random kitchen sinks
-(RKS) [18] work as follows.  Bochners theorem states that a continuous shift-invariant kernel K(x, y) = k(x − y) is a
-positive definite function if and only if k(t) is the Fourier transform of a non-negative measure
-ρ(ω).
 
