@@ -2,45 +2,45 @@
 
 ## Attention  
 
-ICLR’15 paper Neural Machine Translation by Jointly Learning to Align and Translate2 from Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio.   
+1. ICLR15, Neural Machine Translation by Jointly Learning to Align and Translate , Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio.   
 
-ACL’15 paper, Encoding Source Language with Convolutional Neural Network for Machine Translation3 from Fandong Meng, Zhengdong Lu, Mingxuan Wang, Hang Li, Wenbin Jiang, Qun Liu
+1. ACL15, Encoding Source Language with Convolutional Neural Network for Machine Translation , Fandong Meng, Zhengdong Lu, Mingxuan Wang, Hang Li, Wenbin Jiang, Qun Liu
 
-ACL’15, A Hierarchical Neural Autoencoder for Paragraphs and Documents4 from Jiwei Li, Minh-Thang Luong, Dan Jurafsky  
+1. ACL15, A Hierarchical Neural Autoencoder for Paragraphs and Documents , Jiwei Li, Minh-Thang Luong, Dan Jurafsky  
 
-EMNLP’15 paper, A Neural Attention Model for Sentence Summarization, from Alexander M. Rush, Sumit Chopra and Jason Weston  
+1. EMNLP15, A Neural Attention Model for Sentence Summarization, Alexander M. Rush, Sumit Chopra and Jason Weston  
 
-EMNLP’15 short paper, Not All Contexts Are Created Equal: Better Word Representations with Variable Attention6, from Wang Ling.
+1. EMNLP15 short, Not All Contexts Are Created Equal: Better Word Representations with Variable Attention6, Wang Ling.
 
-NAACL’15 paper, Two/Too Simple Adaptations of Word2Vec for Syntax Problems  
+1. NAACL15 , Two/Too Simple Adaptations of Word2Vec for Syntax Problems  
 
-Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu. Recurrent Models of Visual Attention. 2014. In Advances in Neural Information Processing Systems. 
+1. NIPS14, Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu. Recurrent Models of Visual Attention.
 
-Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. Neural Machine Translation by Jointly Learning to Align and Translate. 2015. In Proceedings of ICLR. 
+1. ICLR15, Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. Neural Machine Translation by Jointly Learning to Align and Translate.  
 
-Fandong Meng, Zhengdong Lu, Mingxuan Wang, et al. Encoding Source Language with Convolutional Neural Network for Machine Translation. 2015. In Proceedings of ACL. 
+1. ACL15, Fandong Meng, Zhengdong Lu, Mingxuan Wang, et al. Encoding Source Language with Convolutional Neural Network for Machine Translation.  
 
-Jiwei Li, Minh-Thang Luong, Dan Jurafsky. A Hierarchical Neural Autoencoder for Paragraphs and Documents. 2015. In Proceedings of ACL.
+1. ACL15, Jiwei Li, Minh-Thang Luong, Dan Jurafsky. A Hierarchical Neural Autoencoder for Paragraphs and Documents. 
 
-Alexander M. Rush, Sumit Chopra, Jason Weston. A Neural Attention Model for Sentence Summarization. 2015. In Proceedings of EMNLP. 
+1. EMNLP15, Alexander M. Rush, Sumit Chopra, Jason Weston. A Neural Attention Model for Sentence Summarization. 
 
-Wang Ling, Lin Chu-Cheng, Yulia Tsvetkov, et al. Not All Contexts Are Created Equal: Better Word Representations with Variable Attention。 2015. In Proceedings of EMNLP. 
+1. EMNLP15, Wang Ling, Lin Chu-Cheng, Yulia Tsvetkov, et al. Not All Contexts Are Created Equal: Better Word Representations with Variable Attention
 
-End-to-End Attention-based Large Vocabulary Speech Recognition [Bahdanau,arXiv15] http://weibo.com/2536116592/CxcsTFLSs
+1. End-to-End Attention-based Large Vocabulary Speech Recognition
 
-End-to-end Continuous Speech Recognition using Attention-based Recurrent NN: First Results [Chorowski,NIPS14ws] http://arxiv.org/abs/1412.1602
+1. NIPS14 ws, End-to-end Continuous Speech Recognition using Attention-based Recurrent NN: First Results http://arxiv.org/abs/1412.1602
 
-Attention-Based Models for Speech Recognition [Chorowski,NIPS15] http://arxiv.org/abs/1506.07503
+1. NIPS15, Attention-Based Models for Speech Recognition 
 
-Effective Approaches to Attention-based Neural Machine Translation  [Luong,EMNLP15]  
+1. EMNLP15, Effective Approaches to Attention-based Neural Machine Translation 
 
-Kelvin Xu, Jimmy Ba, Ryan Kiros, et al. Show, Attend and Tell: Neural Image Caption Generation with Visual Attention. 2015. In Proceedings of ICML. 
+1. ICML15, Kelvin Xu, Jimmy Ba, Ryan Kiros, et al. Show, Attend and Tell: Neural Image Caption Generation with Visual Attention. 
 
-Karol Gregor, Ivo Danihelka, Alex Graves, et al. DRAW: A Recurrent Neural Network For Image Generation. 2015. arXiv pre-print. 
+1. Karol Gregor, Ivo Danihelka, Alex Graves, et al. DRAW: A Recurrent Neural Network For Image Generation. 
 
-Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, et al. Teaching Machines to Read and Comprehend. 2015. In Proceedings of NIPS. 
+1. NIPS15, Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, et al. Teaching Machines to Read and Comprehend. 
 
-Lei Jimmy Ba, Roger Grosse, Ruslan Salakhutdinov, Brendan Frey. Learning Wake-Sleep Recurrent Attention Models. 2015. In Proceedings of NIPS. 
+1. NIPS15, Lei Jimmy Ba, Roger Grosse, Ruslan Salakhutdinov, Brendan Frey. Learning Wake-Sleep Recurrent Attention Models.
 
 
 ## IR
