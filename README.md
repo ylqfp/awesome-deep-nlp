@@ -91,11 +91,28 @@ Bi-directional LSTM Recurrent Neural Network for Chinese Word Segmentation, 2016
 A multi-view deep learning approach for cross domain user modeling in recommendation systems, WWW2015
 
 ## Knowledge Graph
+1. UM
+3. LFM
+5. SE
+6. SME
+7. RESCAL
+8. NTN
+8. TransE  
+   Translating Embedding for Modeling Multi-relational Data
+8. TransH
+9. TransR
+10. TransM
+11. TransG
+12. KG2E
+13. PTransE
+6. TransA@CAS
+7. TransA@THU
+8. STransE
 
-## Multimodal
+## Multimodal/Transfer/Multitask/Ensemble/Semisupervised
 
 ## Deep Generative Models
 
-## Transfer and Multitask and Ensemble
+
 
 
