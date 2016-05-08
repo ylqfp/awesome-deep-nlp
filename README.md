@@ -91,16 +91,25 @@ Bi-directional LSTM Recurrent Neural Network for Chinese Word Segmentation, 2016
 A multi-view deep learning approach for cross domain user modeling in recommendation systems, WWW2015
 
 ## Knowledge Graph
-1. UM
-3. LFM
-5. SE
-6. SME
+### Deep Learning Methods
+1. UM  
+Bordes, Joint Learning of Words and Meaning representations for open-text semantic parsing
+3. LFM  
+A latent Factor Model for Highly Multi-relational Data
+5. SE  
+Learning Structured Embeddings of Knowledge Bases
+6. SME  
+A Semantic Matching Energy Function for Learning with Multi-Relational Data
 7. RESCAL
-8. NTN
+A three-way model for collective learning on multi-relational data
+8. NTN  
+Reasoning With Neural Tensor Networks for Knowledge Base Completion
 8. TransE  
    Translating Embedding for Modeling Multi-relational Data
-8. TransH
-9. TransR
+8. TransH  
+Knowledge Graph Embedding by Translating on Hyperplanes
+9. TransR  
+Learning Entity and Relation Embeddings for Knowledge Graph Completion
 10. TransM
 11. TransG
 12. KG2E
